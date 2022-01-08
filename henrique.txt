@@ -1,0 +1,4 @@
+Nome: Henrique Mamede;
+Idade: 22;
+Estado Civil: Solteiro;
+Gostos: Geek;
